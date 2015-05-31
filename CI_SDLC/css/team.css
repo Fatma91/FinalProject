@@ -1,0 +1,43 @@
+#add_form{
+width:960px;
+height:610px;
+margin:50px auto;
+}
+
+form{
+width:320px;
+padding:0 50px 20px;
+background:linear-gradient(#fff,#ABDBFF);
+border:1px solid #ccc;
+box-shadow:0 0 5px;
+float:left;
+margin-top:10px;
+}
+
+label{
+margin-top:10px ;
+font-size:17px;
+}
+
+input{
+width:100%;
+padding:10px;
+margin:6px 0 20px;
+border:none;
+box-shadow:0 0 5px;
+}
+
+input#submit{
+margin-top:20px;
+font-size:18px;
+background:linear-gradient(#22abe9 5%,#36caf0 100%);
+border:1px solid #0F799E;
+color:#fff;
+font-weight:700;
+cursor:pointer;
+text-shadow:0 1px 0 #13506D;
+}
+
+input#submit:hover{
+background:linear-gradient(#36caf0 5%,#22abe9 100%);
+}
